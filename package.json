@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/CaoHuy26/bc-js#readme",
   "dependencies": {
-    "crypto-js": "^4.0.0"
+    "crypto-js": "^4.0.0",
+    "elliptic": "^6.5.4"
   }
 }
